@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Parallax Website Project
+
+![Parallax_Website](https://github.com/DurmusFurkanOzkan/Parallax_Website/blob/master/parallax_project_gif.gif)****
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
